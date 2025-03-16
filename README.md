@@ -9,5 +9,5 @@ Ejemplo de portafolio responsive
 
 ## Hecho por:
 
-###Daniel Garcia
+### Daniel Garcia
 
